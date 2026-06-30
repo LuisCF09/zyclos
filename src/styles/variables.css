@@ -1,0 +1,20 @@
+:root {
+  --color-forest: #214b39;
+  --color-forest-dark: #17382b;
+  --color-leaf: #6f9f77;
+  --color-sage: #dce8dc;
+  --color-cream: #f3efe4;
+  --color-paper: #fffdf7;
+  --color-white: #ffffff;
+  --color-ash: #f4f5f1;
+  --color-line: #d8ded2;
+  --color-stone: #69736b;
+  --color-text: #25322b;
+  --color-muted: #5f6a61;
+  --color-gold: #b5914a;
+  --color-danger: #a3483d;
+  --shadow-soft: 0 18px 45px rgba(23, 56, 43, 0.12);
+  --radius-sm: 6px;
+  --radius-md: 8px;
+  --container: 1180px;
+}
